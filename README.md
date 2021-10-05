@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/INSIDE-EDITS/vk-album">
+    <img alt="Vk-Album" src="(https://user-images.githubusercontent.com/71967120/135995015-d9bde07d-e66e-49e3-8070-93e76573fed8.jpg" width="60" />
+  </a>
+</p>
+
 <h1 align="center">
   Vk-Album
 </h1>
