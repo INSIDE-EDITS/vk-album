@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/INSIDE-EDITS/vk-album">
-    <img alt="Vk-Album" src="./src/images/mdg.png" width="60" />
+    <img alt="Vk-Album"/>
   </a>
 </p>
 <h1 align="center">
@@ -8,13 +8,8 @@
 </h1>
 
 <p align="center">
-    <a href="https://rahuldkjain.github.io/gh-profile-readme-generator" target="blank">View Demo</a>
+    <a href="https://github.com/rahuldkjain/github-profile-readme-generator/issues/new/choose">Сообщить об ошибке</a>
     ·
-    <a href="https://github.com/rahuldkjain/github-profile-readme-generator/issues/new/choose">Report Bug</a>
-    ·
-    <a href="https://github.com/rahuldkjain/github-profile-readme-generator/issues/new/choose">Request Feature</a>
-</p>
-
 #### Что такое vk-album?
 
 vk-album - Это скрипт для накрутки прослушиваний в вк, на оффицальный и обычный плейлист.
@@ -28,5 +23,5 @@ vk-album - Это скрипт для накрутки прослушивани�
 3. Запускаем vk-album
 
 ## 💻 Если появились вопросы
-- [VK](https://vk.com/bcemi_3abbltbli):разработчика.
-- [VK-Help](https://vk.com/reichedits):помощник.
+- [VK](https://vk.com/bcemi_3abbltbli) : vk - разработчика.
+- [VK-Help](https://vk.com/reichedits) : vk - помощника.
