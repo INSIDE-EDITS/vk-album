@@ -1,25 +1,16 @@
-<p align="center">
-  <a href="https://github.com/INSIDE-EDITS/vk-album">
-    <img alt="Vk-Album" src="(https://user-images.githubusercontent.com/71967120/135995015-d9bde07d-e66e-49e3-8070-93e76573fed8.jpg" width="60" />
-  </a>
+<h1 align="center">Hi 👋, I'm Inside Edits</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=inside&label=Profile%20views&color=b40e0e&style=flat" alt="inside" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=inside" alt="inside" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucdznpc6m_ybbioszeeusoaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucdznpc6m_ybbioszeeusoaa" height="30" width="40" /></a>
 </p>
 
-<h1 align="center">
-  Vk-Album
-</h1>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-#### Что такое vk-album?
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=inside&show_icons=true&theme=dark&locale=en&layout=compact" alt="inside" /></p>
 
-vk-album - Это скрипт для накрутки прослушиваний в вк, на оффицальный и обычный плейлист.
-
-## 🛠️ Установка
-
-1. Скачиваем репозиторий.
-
-2. Уставливаем [chrome](https://www.google.ru/chrome/)
-
-3. Запускаем vk-album.
-
-## 💻 Если появились вопросы
-- [VK](https://vk.com/bcemi_3abbltbli) : vk - разработчика.
-- [VK-Help](https://vk.com/reichedits) : vk - помощника.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inside&theme=dark" alt="inside" /></p>
