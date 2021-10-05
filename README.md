@@ -1,15 +1,11 @@
 <p align="center">
   <a href="https://github.com/INSIDE-EDITS/vk-album">
     <img alt="Vk-Album"/>
-  </a>
 </p>
 <h1 align="center">
   Vk-Album
 </h1>
 
-<p align="center">
-    <a href="https://github.com/rahuldkjain/github-profile-readme-generator/issues/new/choose">Сообщить об ошибке</a>
-    ·
 #### Что такое vk-album?
 
 vk-album - Это скрипт для накрутки прослушиваний в вк, на оффицальный и обычный плейлист.
